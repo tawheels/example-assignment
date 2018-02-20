@@ -4,6 +4,7 @@ public class Fibonocci {
 
 	public Fibonocci() {
 		super();
+		createSeries();
 	}
 
 	public void createSeries() {
